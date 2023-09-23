@@ -1,0 +1,7 @@
+tried with node version 18+, not working
+
+install nvm and node version 16 or less 
+
+nvm use 16.
+
+then the script works
